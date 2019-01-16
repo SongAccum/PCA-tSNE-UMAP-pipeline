@@ -1,4 +1,5 @@
 # PCA-tSNE-UMAP-pipeline
+[see this pipeline with jupyter](./PCA_tSNE_UMAP_pipeline.ipynb)
 ## 导入需要的库信息
 ```python
 #导入必需的库
