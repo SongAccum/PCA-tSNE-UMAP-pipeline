@@ -43,7 +43,7 @@ plt.scatter(X[:, 0], X[:, 1], X[:, 2],marker='o')
 ```
 
 <div align = center>
-<img src="images/raw_3d.png" width="800" height="400" />
+<img src="images/raw_3d.png" width="400" height="200" />
 </div>
 
 ### 原始三维特征的方差大小
@@ -70,7 +70,7 @@ plt.show()
 ```
 
 <div align = center>
-<img src="images/easy_pca_1.png" width="800" height="400" />
+<img src="images/easy_pca_1.png" width="400" height="200" />
 </div>
 
 ### 降维：指定主成分方差占比
@@ -90,7 +90,7 @@ plt.show()
 ```
 
 <div align = center>
-<img src="images/easy_pca_2.png" width="800" height="400" />
+<img src="images/easy_pca_2.png" width="400" height="200" />
 </div>
 
 ## PCA、UMAP、tSNE
@@ -148,7 +148,7 @@ visualize_effect(original_mx,sample_class)
 ```
 
 <div align = center>
-<img src="images/PCA_TSNE_UMAP_1.png" width="800" height="400" />
+<img src="images/PCA_TSNE_UMAP_1.png" width="350" height="900" />
 </div>
 
 ## 带有量化聚集程度的PCA、tSNE、UMAP
@@ -298,7 +298,7 @@ visualize_effect(original_mx,sample_class)
 ```
 
 <div align = center>
-<img src="images/PCA_TSNE_UMAP_2.png" width="800" height="400" />
+<img src="images/PCA_TSNE_UMAP_2.png" width="350" height="900" />
 </div>
 
 ## 参考链接
